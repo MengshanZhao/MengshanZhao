@@ -11,7 +11,6 @@
 - **COVID-19 NLP & Mobility** — Sentiment analysis on pandemic tweets + RDiT to study behavioral responses.  
 - **Interactive Learning Platform** — Deployed website & JS mini-games to improve online learning.
 
-*(Links coming soon as I polish and publish each repo.)*
 
 ## Technical Skills
 **Languages/Tools:** Python, R, Stata, SQL, JavaScript, LaTeX, Git  
